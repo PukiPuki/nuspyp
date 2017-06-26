@@ -1,0 +1,2 @@
+"use strict";define("forum/popular",["components"],function(a){var t={};t.init=function(){app.enterRoom("popular_topics");a.get("popular/tab").removeClass("active").find('a[href="'+window.location.pathname+'"]').parent().addClass("active")};return t});
+//# sourceMappingURL=public/src/client/popular.js.map

@@ -1,0 +1,2 @@
+define("ace/snippets/mushcode",["require","exports","module"],function(e,s,i){"use strict";s.snippetText=undefined,s.scope="mushcode"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/mushcode.js.map

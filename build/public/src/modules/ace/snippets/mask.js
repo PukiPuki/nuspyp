@@ -1,0 +1,2 @@
+define("ace/snippets/mask",["require","exports","module"],function(e,s,i){"use strict";s.snippetText=undefined,s.scope="mask"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/mask.js.map

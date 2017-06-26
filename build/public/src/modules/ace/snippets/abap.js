@@ -1,0 +1,2 @@
+define("ace/snippets/abap",["require","exports","module"],function(e,p,i){"use strict";p.snippetText=undefined,p.scope="abap"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/abap.js.map

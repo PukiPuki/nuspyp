@@ -1,0 +1,2 @@
+define("ace/snippets/powershell",["require","exports","module"],function(e,s,p){"use strict";s.snippetText=undefined,s.scope="powershell"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/powershell.js.map

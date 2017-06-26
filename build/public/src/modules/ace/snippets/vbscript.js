@@ -1,0 +1,2 @@
+define("ace/snippets/vbscript",["require","exports","module"],function(e,i,s){"use strict";i.snippetText=undefined,i.scope="vbscript"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/vbscript.js.map

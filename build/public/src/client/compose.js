@@ -1,0 +1,2 @@
+"use strict";define("forum/compose",[],function(){var n={};n.init=function(){var n=$(".composer");if(n.length){$(window).trigger("action:composer.enhance",{container:n})}};return n});
+//# sourceMappingURL=public/src/client/compose.js.map

@@ -1,0 +1,2 @@
+define("ace/snippets/twig",["require","exports","module"],function(e,i,t){"use strict";i.snippetText=undefined,i.scope="twig"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/twig.js.map

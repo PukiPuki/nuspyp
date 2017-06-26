@@ -1,0 +1,2 @@
+define("ace/snippets/soy_template",["require","exports","module"],function(e,t,s){"use strict";t.snippetText=undefined,t.scope="soy_template"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/soy_template.js.map

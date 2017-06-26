@@ -1,0 +1,2 @@
+define("ace/snippets/rust",["require","exports","module"],function(e,s,t){"use strict";s.snippetText=undefined,s.scope="rust"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/rust.js.map

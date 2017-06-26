@@ -1,0 +1,2 @@
+define("ace/snippets/lean",["require","exports","module"],function(e,n,i){"use strict";n.snippetText=undefined,n.scope="lean"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/lean.js.map

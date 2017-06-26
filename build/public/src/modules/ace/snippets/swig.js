@@ -1,0 +1,2 @@
+define("ace/snippets/swig",["require","exports","module"],function(e,i,s){"use strict";i.snippetText=undefined,i.scope="swig"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/swig.js.map

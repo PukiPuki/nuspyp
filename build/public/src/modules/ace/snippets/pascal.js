@@ -1,0 +1,2 @@
+define("ace/snippets/pascal",["require","exports","module"],function(e,s,p){"use strict";s.snippetText=undefined,s.scope="pascal"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/pascal.js.map

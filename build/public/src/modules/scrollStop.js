@@ -1,0 +1,2 @@
+"use strict";define("scrollStop",function(){var t={};t.apply=function(t){$(t).on("mousewheel",function(t){var e=this.scrollTop;var i=this.scrollHeight;var n=this.getBoundingClientRect().height;if(t.originalEvent.deltaY<0&&e===0||t.originalEvent.deltaY>0&&n+e>=i){return false}})};return t});
+//# sourceMappingURL=public/src/modules/scrollStop.js.map

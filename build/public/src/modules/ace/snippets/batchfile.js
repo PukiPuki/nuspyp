@@ -1,0 +1,2 @@
+define("ace/snippets/batchfile",["require","exports","module"],function(e,i,t){"use strict";i.snippetText=undefined,i.scope="batchfile"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/batchfile.js.map

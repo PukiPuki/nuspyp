@@ -1,0 +1,2 @@
+"use strict";define("forum/pagination",function(){var a={};a.init=function(){$("body").on("click",'[component="pagination/select-page"]',function(){bootbox.prompt("[[global:enter_page_number]]",function(n){a.loadPage(n)});return false})};a.loadPage=function(a,n){n=n||function(){};a=parseInt(a,10);if(!utils.isNumber(a)||a<1||a>ajaxify.data.pagination.pageCount){return}var t=utils.params();t.page=a;var o=window.location.pathname+"?"+$.param(t);ajaxify.go(o,n)};return a});
+//# sourceMappingURL=public/src/client/pagination.js.map

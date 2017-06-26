@@ -1,0 +1,2 @@
+define("ace/snippets/scheme",["require","exports","module"],function(e,s,i){"use strict";s.snippetText=undefined,s.scope="scheme"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/scheme.js.map

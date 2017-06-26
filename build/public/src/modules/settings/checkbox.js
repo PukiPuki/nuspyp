@@ -1,0 +1,2 @@
+"use strict";define("settings/checkbox",function(){var e=null;var t;t={types:["checkbox"],use:function(){e=this},create:function(){return e.helper.createElement("input",{type:"checkbox"})},set:function(e,t){e.prop("checked",t);e.closest(".mdl-switch").toggleClass("is-checked",e.is(":checked"))},get:function(e,t,c){var n=e.prop("checked");if(n==null){return}if(!c){if(n){return n}return}if(t){return n?1:0}return n}};return t});
+//# sourceMappingURL=public/src/modules/settings/checkbox.js.map

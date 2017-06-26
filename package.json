@@ -35,7 +35,7 @@
     "cron": "^1.0.5",
     "cropperjs": "^0.8.1",
     "csurf": "^1.6.1",
-    "daemon": "~1.1.0",
+    "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
     "express": "^4.14.0",
     "express-session": "^1.8.2",
     "express-useragent": "1.0.7",

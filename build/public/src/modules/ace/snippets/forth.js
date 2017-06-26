@@ -1,0 +1,2 @@
+define("ace/snippets/forth",["require","exports","module"],function(e,t,i){"use strict";t.snippetText=undefined,t.scope="forth"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/forth.js.map

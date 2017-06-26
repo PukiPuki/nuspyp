@@ -1,0 +1,2 @@
+define("ace/snippets/c9search",["require","exports","module"],function(e,s,c){"use strict";s.snippetText=undefined,s.scope="c9search"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/c9search.js.map

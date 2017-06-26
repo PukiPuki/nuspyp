@@ -1,0 +1,2 @@
+define("ace/snippets/fortran",["require","exports","module"],function(e,n,t){"use strict";n.snippetText=undefined,n.scope="fortran"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/fortran.js.map

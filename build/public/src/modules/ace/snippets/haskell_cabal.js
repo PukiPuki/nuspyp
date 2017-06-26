@@ -1,0 +1,2 @@
+define("ace/snippets/haskell_cabal",["require","exports","module"],function(e,s,a){"use strict";s.snippetText=undefined,s.scope="haskell_cabal"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/haskell_cabal.js.map

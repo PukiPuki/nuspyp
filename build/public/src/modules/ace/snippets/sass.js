@@ -1,0 +1,2 @@
+define("ace/snippets/sass",["require","exports","module"],function(e,s,i){"use strict";s.snippetText=undefined,s.scope="sass"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/sass.js.map

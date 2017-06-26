@@ -1,0 +1,2 @@
+"use strict";define("settings/textarea",function(){var e=null;var t;t={types:["textarea"],use:function(){e=this},create:function(){return e.helper.createElement("textarea")},set:function(e,t,n){if(n&&t!=null&&typeof t.trim==="function"){t=t.trim()}e.val(t||"")},get:function(e,t,n){var r=e.val();if(t){if(r==null){r=undefined}else{r=r.trim()}}if(n||r){return r}}};return t});
+//# sourceMappingURL=public/src/modules/settings/textarea.js.map

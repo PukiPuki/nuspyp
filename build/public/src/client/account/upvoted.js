@@ -1,0 +1,2 @@
+"use strict";define("forum/account/upvoted",["forum/account/header","forum/account/posts"],function(o,t){var n={};n.init=function(){o.init();$('[component="post/content"] img:not(.not-responsive)').addClass("img-responsive");t.handleInfiniteScroll("posts.loadMoreUpVotedPosts","account/upvoted")};return n});
+//# sourceMappingURL=public/src/client/account/upvoted.js.map

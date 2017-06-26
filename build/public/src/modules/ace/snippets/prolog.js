@@ -1,0 +1,2 @@
+define("ace/snippets/prolog",["require","exports","module"],function(e,o,p){"use strict";o.snippetText=undefined,o.scope="prolog"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/prolog.js.map

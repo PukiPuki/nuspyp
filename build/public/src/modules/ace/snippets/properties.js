@@ -1,0 +1,2 @@
+define("ace/snippets/properties",["require","exports","module"],function(e,p,i){"use strict";p.snippetText=undefined,p.scope="properties"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/properties.js.map

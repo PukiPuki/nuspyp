@@ -1,0 +1,1 @@
+/home/dced/Projects/nodebb/node_modules/cropperjs/dist/cropper.min.js

@@ -1,0 +1,2 @@
+define("ace/snippets/gcode",["require","exports","module"],function(e,i,n){"use strict";i.snippetText=undefined,i.scope="gcode"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/gcode.js.map

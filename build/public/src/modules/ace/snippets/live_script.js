@@ -1,0 +1,2 @@
+define("ace/snippets/live_script",["require","exports","module"],function(e,i,s){"use strict";i.snippetText=undefined,i.scope=""});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/live_script.js.map

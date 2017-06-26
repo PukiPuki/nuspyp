@@ -1,0 +1,2 @@
+define("ace/snippets/luapage",["require","exports","module"],function(e,p,i){"use strict";p.snippetText=undefined,p.scope="luapage"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/luapage.js.map

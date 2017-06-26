@@ -1,0 +1,2 @@
+define("ace/snippets/jack",["require","exports","module"],function(e,i,n){"use strict";i.snippetText=undefined,i.scope="jack"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/jack.js.map

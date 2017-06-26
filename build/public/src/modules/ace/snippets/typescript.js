@@ -1,0 +1,2 @@
+define("ace/snippets/typescript",["require","exports","module"],function(e,t,p){"use strict";t.snippetText=undefined,t.scope="typescript"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/typescript.js.map

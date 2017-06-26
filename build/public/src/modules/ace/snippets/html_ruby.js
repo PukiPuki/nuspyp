@@ -1,0 +1,2 @@
+define("ace/snippets/html_ruby",["require","exports","module"],function(e,t,i){"use strict";t.snippetText=undefined,t.scope="html_ruby"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/html_ruby.js.map

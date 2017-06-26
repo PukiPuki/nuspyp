@@ -1,0 +1,2 @@
+define("ace/snippets/text",["require","exports","module"],function(e,t,i){"use strict";t.snippetText=undefined,t.scope="text"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/text.js.map

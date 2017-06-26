@@ -1,0 +1,2 @@
+define("ace/snippets/html_elixir",["require","exports","module"],function(e,i,t){"use strict";i.snippetText=undefined,i.scope="html_elixir"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/html_elixir.js.map

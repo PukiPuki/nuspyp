@@ -1,0 +1,2 @@
+define("ace/snippets/jade",["require","exports","module"],function(e,i,n){"use strict";i.snippetText=undefined,i.scope="jade"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/jade.js.map

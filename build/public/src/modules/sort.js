@@ -1,0 +1,2 @@
+"use strict";define("sort",["components"],function(t){var a={};a.handleSort=function(a,r,o){var n=t.get("thread/sort");n.find("i").removeClass("fa-check");var e=n.find('a[data-sort="'+config[a]+'"]');e.find("i").addClass("fa-check");$(".category, .topic").on("click",'[component="thread/sort"] a',function(){var t=$(this).attr("data-sort");socket.emit(r,t,function(r){if(r){return app.alertError(r.message)}config[a]=t;ajaxify.go(o)})})};return a});
+//# sourceMappingURL=public/src/modules/sort.js.map

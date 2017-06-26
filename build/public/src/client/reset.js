@@ -1,0 +1,2 @@
+"use strict";define("forum/reset",function(){var e={};e.init=function(){var e=$("#email");var r=$("#error");var s=$("#success");$("#reset").on("click",function(){if(e.val()&&e.val().indexOf("@")!==-1){socket.emit("user.reset.send",e.val(),function(a){if(a){return app.alertError(a.message)}r.addClass("hide");s.removeClass("hide");e.val("")})}else{s.addClass("hide");r.removeClass("hide")}return false})};return e});
+//# sourceMappingURL=public/src/client/reset.js.map

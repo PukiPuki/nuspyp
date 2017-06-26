@@ -1,0 +1,2 @@
+"use strict";define("admin/general/social",[],function(){var e={};e.init=function(){$("#save").on("click",function(){var e=[];$('#postSharingNetworks input[type="checkbox"]').each(function(){if($(this).prop("checked")){e.push($(this).attr("id"))}});socket.emit("admin.social.savePostSharingNetworks",e,function(e){if(e){return app.alertError(e)}app.alertSuccess("[[admin/general/social:save-success]]")})})};return e});
+//# sourceMappingURL=public/src/admin/general/social.js.map

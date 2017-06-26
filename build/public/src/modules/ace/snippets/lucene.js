@@ -1,0 +1,2 @@
+define("ace/snippets/lucene",["require","exports","module"],function(e,n,i){"use strict";n.snippetText=undefined,n.scope="lucene"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/lucene.js.map

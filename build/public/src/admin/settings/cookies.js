@@ -1,0 +1,2 @@
+"use strict";define("admin/settings/cookies",["admin/modules/colorpicker"],function(e){var i={};i.init=function(){e.enable($('[data-colorpicker="1"]'));$("#delete-all-sessions").on("click",function(){socket.emit("admin.deleteAllSessions",function(e){if(e){return app.alertError(e.message)}window.location.href=config.relative_path+"/login"});return false})};return i});
+//# sourceMappingURL=public/src/admin/settings/cookies.js.map

@@ -1,0 +1,2 @@
+define("ace/snippets/swift",["require","exports","module"],function(e,i,s){"use strict";i.snippetText=undefined,i.scope="swift"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/swift.js.map

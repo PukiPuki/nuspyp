@@ -1,0 +1,2 @@
+define("ace/snippets/protobuf",["require","exports","module"],function(e,t,o){"use strict";t.snippetText="",t.scope="protobuf"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/protobuf.js.map

@@ -1,0 +1,2 @@
+define("ace/snippets/lisp",["require","exports","module"],function(e,i,s){"use strict";i.snippetText=undefined,i.scope="lisp"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/lisp.js.map

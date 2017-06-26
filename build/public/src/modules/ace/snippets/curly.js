@@ -1,0 +1,2 @@
+define("ace/snippets/curly",["require","exports","module"],function(e,i,n){"use strict";i.snippetText=undefined,i.scope="curly"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/curly.js.map

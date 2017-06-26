@@ -1,0 +1,2 @@
+define("ace/snippets/autohotkey",["require","exports","module"],function(e,t,o){"use strict";t.snippetText=undefined,t.scope="autohotkey"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/autohotkey.js.map

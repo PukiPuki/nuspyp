@@ -1,0 +1,2 @@
+define("ace/snippets/handlebars",["require","exports","module"],function(e,n,s){"use strict";n.snippetText=undefined,n.scope="handlebars"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/handlebars.js.map

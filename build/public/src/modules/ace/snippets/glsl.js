@@ -1,0 +1,2 @@
+define("ace/snippets/glsl",["require","exports","module"],function(e,s,i){"use strict";s.snippetText=undefined,s.scope="glsl"});
+//# sourceMappingURL=node_modules/ace-builds/src-min/snippets/glsl.js.map
